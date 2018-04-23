@@ -19,3 +19,21 @@
   
 - [#9159](https://github.com/zulip/zulip/issues/9159)
   - Emilio created this issue and was planning on fixing it but the issue was closed due to a misunderstanding regarding documentation.
+
+### Pull Requests
+- [#9047](https://github.com/zulip/zulip/pull/9047)
+  - Status: Making changes
+  - Collaborators: Adnan
+  
+- [#9064](https://github.com/zulip/zulip/pull/9064)
+  - Status: Open
+  - Collaborators: Nadira
+  
+- [#9139](https://github.com/zulip/zulip/pull/9139)
+  - Status: Accepted
+  - Collaborators: Natalie
+  
+- [#9161](https://github.com/zulip/zulip/pull/9161)
+  - Status: Rejected
+  - Collaborators: Emilio
+  
