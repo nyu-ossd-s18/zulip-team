@@ -37,3 +37,21 @@
   - Status: Rejected
   - Collaborators: Emilio
   
+### Commits
+- Adnan
+  - [c0c088e](https://github.com/zulip/zulip/commit/c0c088e232116143530e06a6914045761251bc93)
+  - [d54b7ae](https://github.com/zulip/zulip/commit/d54b7ae874c8fa05b148da5bfb1bdcf4e152aab6)
+  - [6232e62](https://github.com/zulip/zulip/commit/6232e6286e231623827bfe017c799762ff31fd27)
+  - [9bb5dfd](https://github.com/zulip/zulip/commit/9bb5dfdf244ffa7a9347e5642bfaa2e383ea299d)
+  
+- Emilio
+  - [b3ee481](https://github.com/nyu-ossd-s18/zulip/commit/b3ee4811d52349e01869ce2a6c8d0522f9095e1d)
+  
+- Nadira
+  - [45f5f71](https://github.com/zulip/zulip/pull/9064/commits/45f5f71b85fa1424fc7b85ffb66c7ffb09ee0693)
+  - [f7e8f3c](https://github.com/zulip/zulip/pull/9064/commits/f7e8f3c5676a4550f484ddced67c1742de94825d)
+  
+- Natalie
+  - [73595dd](https://github.com/zulip/zulip/pull/9139/commits/73595dd5c3a3b5530ec5cfad778bb5bea6d8c1e2)
+  
+- Ralphy
