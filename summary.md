@@ -1,6 +1,6 @@
 ### Issues
 - [#8750](https://github.com/zulip/zulip/issues/8750)
-  - We attempted to work on this issue as a group and spent some time trying fix it. However, we came to realize the issue was much more complicated than we had anticipated so we abandoned it.
+  - We attempted to work on this issue as a group and spent over a week trying fix it. However, we came to realize the issue was much more complicated than we had anticipated so we abandoned it. This realization came after the owner of zulip noticed we had been directed to the wrong files to edit the issue, and stated that the issue ran deeper than originally thought.  
 
 - [#8837](https://github.com/zulip/zulip/issues/8837)
   - This issue was created by Nadira after determining that the fix to a previous issue was inadequate. She claimed this issue and has submitted a pull request for it.
