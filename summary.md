@@ -18,7 +18,7 @@
   - Natalie claimed this issue and has submitted a pull request for it.
   
 - [#9159](https://github.com/zulip/zulip/issues/9159)
-  - Emilio created this issue and was planning on fixing it but the issue was closed due to a misunderstanding regarding documentation.
+  - Emilio created this issue and was planning on fixing it but the issue was closed due to a misunderstanding regarding documentation. However, after further discussion with @timabbott (owner of zulip), a pull request was generated from this issue, focusing on a different part of the documentation. 
 
 ### Pull Requests
 - [#9047](https://github.com/zulip/zulip/pull/9047)
