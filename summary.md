@@ -24,7 +24,7 @@
   - Emilio opened this issue regarding outdated JavaScript guidelines in Zulip's documentation. He is waiting for feedback from the grand master @timabbott before working on this issue. Ideally this would lead to another PR in the documentation and also more PRs in refactoring old JS files that need to be updated to the ES6 standard.  
   
 - [#9046](https://github.com/zulip/zulip/issues/9046)
-  - Emilio opened this issue, but it was actually a duplicate. He then spent time searching for a fix to this issue, but made no progress. The problem turned out to be more subtle and difficult than anticpated (involving multiple JS files in the final fix). 
+  - Emilio opened this issue, but it was actually a duplicate. He then spent time searching for a fix to this issue, but made no progress. The problem turned out to be more subtle and difficult than anticpated (involving multiple JS files (5) in the final fix). 
 
 ### Pull Requests
 - [#9047](https://github.com/zulip/zulip/pull/9047)
