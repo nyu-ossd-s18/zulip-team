@@ -37,9 +37,9 @@
   - Status: Rejected
   - Collaborators: Emilio
   
--[#9209](https://github.com/zulip/zulip/pull/9209)
-  -Status: Rejected
-  -Collaborators: Ralphy
+- [#9209](https://github.com/zulip/zulip/pull/9209)
+  - Status: Rejected
+  - Collaborators: Ralphy
   
 ### Commits
 - Adnan
