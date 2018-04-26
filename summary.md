@@ -9,7 +9,7 @@
   - Adnan claimed this issue and has submitted a pull request for it.
   
 - [#8144](https://github.com/zulip/zulip/issues/8144)
-  - Ralphy claimed this issue and is currently working on it.
+  - Ralphy claimed this issue and submitted a pull request. The pull request was closed due to it being "hacky."
   
 - [#8473](https://github.com/zulip/zulip/issues/8473)
   - We picked this issue as something we could all potentially work on together but ultimately we abandoned it because the issue itself is more open-ended and lacks direction.
@@ -37,6 +37,10 @@
   - Status: Rejected
   - Collaborators: Emilio
   
+-[#9209](https://github.com/zulip/zulip/pull/9209)
+  -Status: Rejected
+  -Collaborators: Ralphy
+  
 ### Commits
 - Adnan
   - [c0c088e](https://github.com/zulip/zulip/commit/c0c088e232116143530e06a6914045761251bc93)
@@ -55,3 +59,5 @@
   - [73595dd](https://github.com/zulip/zulip/pull/9139/commits/73595dd5c3a3b5530ec5cfad778bb5bea6d8c1e2)
   
 - Ralphy
+  - [107a3ae](https://github.com/zulip/zulip/pull/9209/commits/107a3ae708ee6a846c7e1859d0c779aeedb1526d)
+  - [4733906](https://github.com/zulip/zulip/pull/9209/commits/473390689a1728b8b850ee886585dcc769f94242)
