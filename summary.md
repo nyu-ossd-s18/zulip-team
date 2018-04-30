@@ -68,6 +68,7 @@
   
 - Natalie
   - [73595dd](https://github.com/zulip/zulip/pull/9139/commits/73595dd5c3a3b5530ec5cfad778bb5bea6d8c1e2)
+  - [44702fd] (https://github.com/zulip/zulip/pull/9149/commits/44702fdfe7766d8559134ee97414740c513bd395)
   
 - Ralphy
   - [107a3ae](https://github.com/zulip/zulip/pull/9209/commits/107a3ae708ee6a846c7e1859d0c779aeedb1526d)
